@@ -459,6 +459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1719129516}
+  boxCol: {fileID: 1719129520}
 --- !u!1001 &3585609532012895935
 PrefabInstance:
   m_ObjectHideFlags: 0
